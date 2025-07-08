@@ -5,4 +5,4 @@ This Github file provides supplementary material for the paper "The asymptotic M
 The files are three iPython Notebooks:
 - "algorithm-m3-m5-t7" gives an algorithm that establishes the values of $m_3$, $m_5$ and $t_7$; see section 8 in the paper.
 - "calculations-with-cyclopolytopes" gives an algorithm to compute the cyclopolytopes and check reflexivity as described in Remark 4.1.1, as well as a check that the transportation polytope $T(3,5)$ is combinatorially, but not polar dual to the cyclopolytope $N_{3 \cdot 5}$. 
-- "mahler-measure-pictures" computes $m(C_k)$ numerically and the graphs $\rho_k$ for $k=6,8,10$; see section 7 in the paper.
+- "mahler-measure-pictures" computes for $k=6,8,10$ the Mahler measures $m(C_k)$ numerically and the graphs of the density functions $\rho_k$; see section 7 in the paper.
